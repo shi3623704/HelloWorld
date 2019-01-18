@@ -12,7 +12,7 @@ public class Test {
         System.out.println(sum(1,2));
         System.out.println(sum(2.0,3.0));
         System.out.println(zC(4,2));
-        System.out.println(mJ(4,2));
+        System.out.println(mJ(4,1));
     }
 
     public static int sum(int a,int b){
